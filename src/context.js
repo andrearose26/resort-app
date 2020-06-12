@@ -17,7 +17,7 @@ class RoomProvider extends Component {
             rooms, //uses ES6
             featuredRooms, 
             sortedRooms:rooms, 
-            loading:false
+            loading: false,
         })
     }
 
